@@ -1,1 +1,24 @@
+# AI Usage Statement
+
+## Overview
+AI tools were used during the development of this project to assist with idea generation, code improvements, and documentation. All final decisions, edits, and understanding of the program logic were completed by me.
+
+## What AI Helped With
+- Brainstorming the structure of the program.
+- Suggesting improvements to my original working version of `main.py`.
+- Adding comments and docstrings to make the code clearer.
+- Improving readability and formatting of the final code.
+- Helping write the README.md and this AI_USAGE.md file.
+- Guiding me through Git, PyCharm, and commit steps.
+
+## What I Did Myself
+- Wrote the original working version of the program (Commit #2).
+- Created the project files and set up the CSV structure.
+- Understood and verified all AI suggestions before using them.
+- Manually edited and tested the final code.
+- Completed all GitHub commits and project organization.
+
+## Final Note
+AI was used as a support tool for clarity, organization, and improvement.
+The final project reflects my own understanding of Python, file handling, and program structure.
 

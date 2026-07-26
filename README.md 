@@ -1,1 +1,78 @@
+# Expense Logger – Final Project
+
+## 📌 Project Overview
+This project is a simple Expense Logger application written in Python.
+It allows users to record expenses, categorize them, and view summary statistics such as:
+
+- Total amount spent
+- Average expense
+- Highest single expense
+
+The program stores all data in a CSV file (`expenses.csv`) and provides a menu‑driven interface for easy use.
+
+## 📁 Project Files
+### main.py
+The main Python script that runs the entire program.
+It includes:
+- Functions for loading and saving expenses
+- Input validation
+- Summary calculations
+- A user menu
+- Clear comments and docstrings (improved in Commit #3)
+
+### expenses.csv
+A CSV file that stores all expense records.
+It begins with the required header:
+
+item,category,amount
+
+### README.md
+This file explains:
+- What the project does
+- How to run it
+- What each file contains
+
+### AI_USAGE.md
+Explains how AI was used during development, including improvements made in Commit #3.
+
+## ▶️ How to Run the Program
+1. Make sure all project files are in the same folder:
+   - main.py
+   - expenses.csv
+   - README.md
+   - AI_USAGE.md
+
+2. Open a terminal or run inside PyCharm.
+
+3. Execute the program:
+
+python main.py
+
+4. Use the menu to:
+   - Add new expenses
+   - View summary statistics
+   - Exit the program
+
+## 🔧 Features
+- Add expenses with item name, category, and amount
+- Automatically saves expenses to CSV
+- Calculates:
+  - Total spent
+  - Average expense
+  - Highest expense
+- User‑friendly menu
+- Input validation for numeric amounts
+- Clean, readable code with comments and docstrings
+
+## 📌 Improvements Made in Commit #3
+Commit #3 includes the final polished version of the project:
+- Added docstrings to all functions
+- Improved code readability and structure
+- Added input validation
+- Enhanced summary formatting
+- Added comments for clarity
+- Cleaned up logic using Python best practices
+
+## 👤 Author
+Created by **Latori Hepburn** for **IS3020 – Final Project**.
 
